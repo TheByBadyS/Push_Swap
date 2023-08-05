@@ -2,10 +2,15 @@ PUSH_SWAP
 The purpose of this project is to sort random numbers from smallest to largest according to the rules given to you.
 
 Game Rule
+
 • The game consists of 2 piles named a and b. 
+
 • The stack a consists of a random number of non-replicated negative and/or positive numbers.
+
 • stack b is empty.
+
 • The goal is to sort the numbers in the stack in ascending order on stack a. 
+
 • You can use the following operations to do this:
    sa : swap a -Moves the first 2 elements to the top of stack a. It does nothing if there are one or less elements.
    sb : swap b - Moves the first 2 elements to the top of stack b. It does nothing if there are one or less elements.
