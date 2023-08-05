@@ -3,8 +3,7 @@ The purpose of this project is to sort random numbers from smallest to largest a
 
 Game Rule
 
-• The game consists of 2 piles named a and b. 
-
+• The game consists of 2 piles named a and b.   
 • The stack a consists of a random number of non-replicated negative and/or positive numbers.
 
 • stack b is empty.
