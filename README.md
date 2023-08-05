@@ -10,7 +10,7 @@ Game Rule
 
 • The goal is to sort the numbers in the stack in ascending order on stack a. 
 
-• You can use the following operations to do this:
+• You can use the following operations to do this:   
    sa : swap a -Moves the first 2 elements to the top of stack a. It does nothing if there are one or less elements.
    sb : swap b - Moves the first 2 elements to the top of stack b. It does nothing if there are one or less elements.
    ss : hr and sb are used at the same time.
